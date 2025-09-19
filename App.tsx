@@ -83,13 +83,26 @@ const App: React.FC = () => {
         </div>
       </main>
 
-      <footer className="text-center py-6 text-sm text-gray-500">
-        <p className="mb-2">
-            Join my Skool Community here: <a href="https://www.skool.com/learn-automation/about" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:underline">Learn Automation</a>
-        </p>
-        <a href="https://www.solomonchrist.com" target="_blank" rel="noopener noreferrer" className="font-medium text-primary hover:underline">
-            https://www.solomonchrist.com
-        </a>
+      <footer className="bg-white border-t border-gray-200">
+        <div className="container mx-auto px-4 py-5 text-sm text-gray-600">
+            <div className="flex flex-col md:flex-row justify-between items-center gap-4">
+                <div className="text-center md:text-left">
+                    <p className="font-semibold mb-1">Free AI & Automation Training:</p>
+                    <div className="flex flex-col md:flex-row gap-x-4">
+                      <a href="https://youtu.be/vihx2ZPvw0M?si=lOT4b8E8BKL0_CBT" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">Foundations LEVEL 1</a>
+                      <a href="https://youtu.be/rkIU6R6hPwE?si=G-kA3HktcJwaUGz8" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">Foundations LEVEL 2 (n8n)</a>
+                    </div>
+                </div>
+                <div className="text-center md:text-right flex flex-col sm:flex-row sm:items-center gap-x-4">
+                    <a href="https://www.skool.com/learn-automation/about" target="_blank" rel="noopener noreferrer" className="font-medium text-primary hover:underline">
+                        Join the Skool Community
+                    </a>
+                    <a href="https://www.solomonchrist.com" target="_blank" rel="noopener noreferrer" className="font-medium text-primary hover:underline">
+                        solomonchrist.com
+                    </a>
+                </div>
+            </div>
+        </div>
       </footer>
     </div>
   );
