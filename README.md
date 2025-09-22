@@ -11,11 +11,11 @@
 
 (Replace with actual image names once added to `images/`)
 
-- ![Screenshot 1](images/screenshot_1.jpg)
+- ![Screenshot 1](images/screenshot_1.png)
 - ![Screenshot 2](images/screenshot_2.jpg)
-- ![Screenshot 3](images/screenshot_3.jpg)
+- ![Screenshot 3](images/screenshot_3.png)
 - ![Screenshot 4](images/screenshot_4.jpg)
-- ![Screenshot 5](images/screenshot_5.jpg)
+- ![Screenshot 5](images/screenshot_5.png)
 - ![Screenshot 6](images/screenshot_6.jpg)
 
 ---
