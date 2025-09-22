@@ -113,4 +113,4 @@ Your support keeps projects like this alive and helps build more open-source AI 
 ---
 
 ## 📜 License
-Licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+Licensed under the **MIT License** — see the [LICENSE](LICENSE.txt) file for details.
