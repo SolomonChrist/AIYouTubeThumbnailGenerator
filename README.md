@@ -65,8 +65,8 @@ Creators know thumbnails are one of the most important factors in YouTube succes
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/SolomonChrist/AI-YouTube-Thumbnail-Generator.git
-   cd AI-YouTube-Thumbnail-Generator
+   git clone https://github.com/SolomonChrist/AIYouTubeThumbnailGenerator.git
+   cd AIYouTubeThumbnailGenerator
    ```
 
 2. **Open the app in your browser after setting up the Node.js system.**  
@@ -106,7 +106,9 @@ Creator: **Solomon Christ**
 ## ❤️ Support This Project
 
 If you’d like to support continued development and community projects:
+
 ☕ Buy Me a Coffee → [ COMING SOON ]
+
 💳 Donate via Stripe → [ COMING SOON ]
 
 Your support keeps projects like this alive and helps build more open-source AI tools
